@@ -1,0 +1,2 @@
+Healthcare_chatbot
+It is a healthcare chatbot developed using rasa framework. command to run the rasa server rasa run
